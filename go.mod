@@ -1,1 +1,1 @@
-module pinyin
+module github.com/nothing-do/pinyin
